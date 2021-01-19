@@ -100,4 +100,3 @@ def get_median(number_list):
     else :
         median = (number_list[size//2]+number_list[size//2-1])/2
     return median
-
