@@ -101,4 +101,3 @@ def get_median(number_list):
         median = (number_list[size//2]+number_list[size//2-1])/2
     return median
 
-print(get_median( [6, 75, 79, 41, 38, 77, 1, 30, 69, 83]))
